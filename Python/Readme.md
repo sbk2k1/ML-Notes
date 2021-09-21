@@ -3,7 +3,7 @@
 This may contain:
 <ul>
 <li>Basic Python Notes</li>
-<li></li>
+<li>Implementations of algorithms</li>
 <li></li>
 <li></li>
 <li></li>
