@@ -5,6 +5,6 @@ This may contain:
 <li>Basic Python Notes</li>
 <li>Implementations of algorithms</li>
 <li>Frameworks</li>
-<li></li>
+<li>Q&As</li>
 <li></li>
 </ul>
