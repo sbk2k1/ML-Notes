@@ -1,2 +1,2 @@
 # ML-Notes
-My ML Notes from 
+My ML Notes from all 
