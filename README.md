@@ -1,2 +1,2 @@
 # ML Notes
-My ML Notes from all over the internet.
+My ML Notes from 
