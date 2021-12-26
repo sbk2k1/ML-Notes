@@ -1,4 +1,4 @@
 # ML-Notes
 My ML Notes from all over the internet.
 
-You can find my
+You can find my blogs
