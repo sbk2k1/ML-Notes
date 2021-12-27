@@ -1,4 +1,4 @@
 # ML-Notes
-My ML Notes from all
+My ML Notes from all over
 
 You can find my blogs <a href="https://highonbugs.hashnode.dev/">here</a>.
