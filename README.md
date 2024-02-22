@@ -4,7 +4,7 @@ You can also find my blogs <a href="https://highonbugs.hashnode.dev/">here</a>.
 
 ## Connect with me here!
 
-Website: <a href="https://sbk2k1.tech">
+Website: <a href="https://sbk2k1.tech">Portfolio</a>
 
 <p align="center">
 	<a href="https://instagram.com/sbk_2k1">
