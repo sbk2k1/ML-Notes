@@ -2,9 +2,9 @@
 
 You can also find my blogs <a href="https://highonbugs.hashnode.dev/">here</a>.
 
-My Website <a href="https://sbk2k1.tech">
-
 ## Connect with me here!
+
+Website: <a href="https://sbk2k1.tech">
 
 <p align="center">
 	<a href="https://instagram.com/sbk_2k1">
